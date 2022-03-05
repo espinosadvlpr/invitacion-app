@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/invitacion-app/static/css/main.073c9b0a.css",
-    "main.js": "/invitacion-app/static/js/main.1dd78e3f.js",
+    "main.css": "/invitacion-app/static/css/main.8dd66151.css",
+    "main.js": "/invitacion-app/static/js/main.9e335216.js",
     "static/js/787.d9e7ccd9.chunk.js": "/invitacion-app/static/js/787.d9e7ccd9.chunk.js",
-    "static/media/logo.svg": "/invitacion-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/fondo-wal.jpg": "/invitacion-app/static/media/fondo-wal.994b5cf7a70cfc55e6cf.jpg",
+    "static/media/memeface.png": "/invitacion-app/static/media/memeface.7a8714ef393020cf98e7.png",
     "index.html": "/invitacion-app/index.html",
-    "main.073c9b0a.css.map": "/invitacion-app/static/css/main.073c9b0a.css.map",
-    "main.1dd78e3f.js.map": "/invitacion-app/static/js/main.1dd78e3f.js.map",
+    "main.8dd66151.css.map": "/invitacion-app/static/css/main.8dd66151.css.map",
+    "main.9e335216.js.map": "/invitacion-app/static/js/main.9e335216.js.map",
     "787.d9e7ccd9.chunk.js.map": "/invitacion-app/static/js/787.d9e7ccd9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1dd78e3f.js"
+    "static/css/main.8dd66151.css",
+    "static/js/main.9e335216.js"
   ]
 }
