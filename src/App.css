@@ -1,38 +1,29 @@
-.App {
-  text-align: center;
+body {
+  background: url(./fondo-wal.jpg) center center no-repeat fixed;
+  background-size: cover;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.container {
+  text-align:center;
+  background: rgba(155,155,155,0.8);
+  border-radius:5px;  
+  margin: 0 auto;
+  margin-top: 4%;
+  margin-bottom: 4%;
+  width: 70%;
+  padding: 10px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h1 {
+  font: oblique bold 210% cursive;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+p {
+  font: oblique bold 120% cursive;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+@media only screen and (max-width: 767px){
+  body {
+    background: url(./fondo-wal.jpg);
   }
 }
